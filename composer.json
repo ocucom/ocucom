@@ -1,0 +1,13 @@
+{
+    "name": "ocucom/placeholder",
+    "description": "A Placeholder Project",
+    "type": "metapackage",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ocucom, Inc.",
+            "email": "github@ocucom.com"
+        }
+    ],
+    "require": {}
+}
